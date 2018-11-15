@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SummaryFooterCell.cs](./CS/App_Code/SummaryFooterCell.cs) (VB: [SummaryFooterCell.vb](./VB/App_Code/SummaryFooterCell.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - Endless Paging Mode - Total summary item - Avoid refreshing after editing
 
 
